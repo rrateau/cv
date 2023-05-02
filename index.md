@@ -1,5 +1,5 @@
-# Dr Rémi RATEAU
-Geoscientist (geology, geochemistry, geophysics)
+# Dr Rémi RATEAU  
+Geoscientist (geology, geochemistry, geophysics)  
 Trinity College Dublin, the University of Dublin, Ireland
 
 ## Education
