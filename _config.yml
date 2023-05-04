@@ -1,0 +1,29 @@
+#theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+aux_links:
+    "ORCID":
+      - "https://orcid.org/0000-0002-8544-2240"
+    "LinkedIn":
+      - "https://www.linkedin.com/in/remi-rateau"
+    "ResearchGate":
+      - "https://www.researchgate.net/profile/Remi_Rateau"
+
+color_scheme: cv-dark.scss
+
+# defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: ""
+
+# jekyll-seo-tag
+
+title: Dr. Rémi Rateau
+tagline: "Research geoscientist"
+description: "My CV, list of publications and research interest."
+type: website
+
+# enable theme for local usage
+#theme: "just-the-docs"
