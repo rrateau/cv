@@ -6,18 +6,18 @@ nav_order: 1
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
 {% include include_metatags.md %}
 
-# Dr Rémi RATEAU  
+## Dr Rémi RATEAU  
 Geoscientist (geology, geochemistry, geophysics)  
 Trinity College Dublin, the University of Dublin, Ireland
 
-## Education
+### Education
 
 * 2016-2021 PhD Geology, Trinity College Dublin, Ireland
 * 2009-2010 MSc Petroleum Geosciences, Imperial College London, UK
 * 2008-2010 ~MSc Aplied Geosciences, LaSalle Beauvais (now UniLaSalle, Polytechnic Institute), France
 * 2004-2008 ~BSc Applied Geosciences, LaSalle Beauvais (now UniLaSalle, Polytechnic Institute), France
 
-## Professional Life
+### Professional Life
 
 * 2022-now  Research Fellow, School of Natural Sciences, Trinity College Dublin, Ireland
 * 2021-2022 Laboratory Teaching Assistant, Department of History, Limerick University, Ireland
@@ -26,14 +26,14 @@ Trinity College Dublin, the University of Dublin, Ireland
 * 2010-2014 Exploration Geoscientist, DONG Energy, London, UK
 * 2005-2010 Internships at GDF (now Suez), British Geological Survey (BGS), Bureau de Recherche Géologique et Minière (BRGM, France),
 
-## Publications
+### Publications
 
 * Szucs A. M., Maddin M., Brien D. & **Rateau R.**, Rodriguez-Blanco J.-D. 2023. The role of nanocerianite (CeO2) in the stability of Ce carbonates at low-hydrothermal conditions. _RSA Advances_, **13**-10,  6919-6935. [doi.org/10.1039/D3RA00519D](https://doi.org/10.1039/D3RA00519D)
 * **Rateau R.**, Schofield, N. & Smith, M. 2013. The potential role of igneous intrusions on hydrocarbon migration, West of Shetland. _Petroleum Geoscience_, **19**, 259-272. [doi.org/10.1144/petgeo2012-035](https://doi.org/10.1144/petgeo2012-035)
 * **Rateau R.** & Gagnaison C. 2009. Découverte d’une dent déciduale de _Gomphotherium angustidens_ dans les faluns miocènes du bassin de Savigné-sur-Lathan (37, France). _Symbiose_, **23**, 80-81.
 *	**Rateau R.**, Gagnaison C. & Gelot V. 2009. Un _Metaxytherium medium_ (_Mammalia_, _Sirenia_) attaqué par des requins dans les faluns miocènes de Channay-sur-lathan (37, France). _Symbiose_, **23**, 68-79.
 
-## Talks
+### Talks
 
 * 2022  “Adsorption processes of rare earths by biogenic carbonates” at ECCG7, 7th European Conference on Crystal Growth, Paris, France.
         "The Goose that Laid the Golden Eggs", lightning talk at iGEO 2022, Cork, Ireland
@@ -41,7 +41,7 @@ Trinity College Dublin, the University of Dublin, Ireland
 * 2014 “Role of igneous intrusions on hydrocarbon migration” at the AGU Fall Meeting, San Francisco, USA
 * 2012 “Volcanism and exploration, WOS” at the 5th Faroe Islands Exploration Conference, Tórshavn, Faroe Islands. 
 
-## Posters
+### Posters
 
 * 2023  IGRM
 * 2022  iGEO  "Organic carbonate shells & rare earth elements - A sustainable combo?"
