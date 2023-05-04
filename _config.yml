@@ -17,8 +17,6 @@ defaults:
       path: ""
     values:
       image: ""
-url: rrateau.github.io
-baseurl: /cv
 
 # jekyll-seo-tag
 
