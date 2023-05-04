@@ -57,6 +57,11 @@ Trinity College Dublin, the University of Dublin, Ireland
 * 2017  IGRM
         Atlantic Ireland
 * 2010  Strati2010 Bouchet _et al._: "New Paleontological and Sedimentological data on the Miocene Basin of Savigné-sur-Lathan /Noyant-sous-le-Lude (Indre-et-Loire/Maine-et-Loire, France)" ([link](https://www.researchgate.net/publication/278521433_New_Paleontological_and_Sedimentological_data_on_the_Miocene_Basin_of_Savigne-sur-Lathan_Noyant-sous-le-Lude_Indre-et-LoireMaine-et-Loire_France))
+
+<br /><br />
+
+---
+
         
 _iGEO = Irish Geosciences Early Career Symposium_
 _IGRM = Irish Geological Research Meeting_
