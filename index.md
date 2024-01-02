@@ -28,6 +28,7 @@ Trinity College Dublin, the University of Dublin, Ireland
 
 ### Publications
 
+* Terribili L., **Rateau R.**, Szucs A. M., Maddin M. & Rodriguez-Blanco J.-D. 2023. Impact of rare earth elements on CaCO<sub>3</sub> crystallization: Insights into kinetics, mechanisms, and crystal morphology. _Crystal Growth & Design_, **XX**-XX,  XXXX-XXXX. [doi.org/10.1021/acs.cgd.3c00858](https://doi.org/10.1021/acs.cgd.3c00858)
 * Szucs A. M., Maddin M., Brien D. & **Rateau R.**, Rodriguez-Blanco J.-D. 2023. The role of nanocerianite (CeO2) in the stability of Ce carbonates at low-hydrothermal conditions. _RSA Advances_, **13**-10,  6919-6935. [doi.org/10.1039/D3RA00519D](https://doi.org/10.1039/D3RA00519D)
 * **Rateau R.**, Schofield, N. & Smith, M. 2013. The potential role of igneous intrusions on hydrocarbon migration, West of Shetland. _Petroleum Geoscience_, **19**, 259-272. [doi.org/10.1144/petgeo2012-035](https://doi.org/10.1144/petgeo2012-035)
 * **Rateau R.** & Gagnaison C. 2009. Découverte d’une dent déciduale de _Gomphotherium angustidens_ dans les faluns miocènes du bassin de Savigné-sur-Lathan (37, France). _Symbiose_, **23**, 80-81.
